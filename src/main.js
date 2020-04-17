@@ -6,6 +6,11 @@ import router from './router'
 import axios from 'axios'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
+// 组件扫描文件
+import scanFile from "./scanFile"
+Vue.use(scanFile)
+// vuex
+import store from "./store"
 
 
 Vue.config.productionTip = false
@@ -16,6 +21,7 @@ Vue.prototype.$http = axios
 new Vue({
   el: '#app',
   router,
+  store,
   components: { App },
   template: '<App/>'
 })
