@@ -57,7 +57,7 @@
                 @size-change="handleSizeChange"
                 @current-change="handleCurrentChange"
                 :current-page.sync="pageInfo.currentPage"
-                :page-sizes="[1,2,3,4]"
+                :page-sizes="[10,15,20,30]"
                 :page-size="pageInfo.pageSize"
                 layout="total, sizes, prev, pager, next"
                 :total="total">
@@ -142,7 +142,7 @@ export default {
             // 分页信息
             pageInfo: {
                 currentPage: 1,
-                pageSize: 1,
+                pageSize: 10,
             },
             // 总条数
             total: 0,
