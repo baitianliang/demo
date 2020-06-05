@@ -12,12 +12,12 @@ export default new Router({
     //   component: HelloWorld
     // },
     {
-      path: '/',
+      path: '/Home',
       name: 'Home',
       component:() => import('@/components/pages/Home')
     },
     {
-      path: '/blog',
+      path: '/',
       name: 'Blog',
       component:() => import('@/components/pages/Blog')
     }

@@ -10,9 +10,10 @@ import 'element-ui/lib/theme-chalk/index.css'
 import scanFile from "./scanFile"
 Vue.use(scanFile)
 // vuex
-import store from "./store"
+import store from "./store.js"
 
 
+axios.defaults.baseURL = "http://localhost:8080/"
 Vue.config.productionTip = false
 Vue.use(ElementUI)
 Vue.prototype.$http = axios
