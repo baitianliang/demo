@@ -6746,7 +6746,7 @@ function a1_0x220d() {
 		'用手轻轻挠对方手心5秒钟', '553795fifWel', '男主JJ上涂番茄酱让女仆舔食干净反复数次', 'mixinParam', 'ac1f', '吻遍TA每寸肌肤一分钟',
 		'双方脱掉所有衣服，女方可以穿情趣内衣', '9747', '#f56c6c', '9ef7', 'Utf8', 'boundingClientRect', 'ctrlKey', 'map', 'c607',
 		'ktv', '选一个搞笑表情包让TA模仿', 'uploadFile', '绑在椅子上紫薇给他看', '互相拥抱1分钟，并且抚摸对方PP', '06b9', '闭上眼睛，让对方为你做任何事情一分钟',
-		'揉对方nai一下', 'apply', 'static/js/', 'aff5', '/pagesA/turntable/turntable', 'then', 'publicPath', 'f1cb',
+		'揉对方nai一下', 'apply', './static/js/', 'aff5', '/pagesA/turntable/turntable', 'then', 'publicPath', 'f1cb',
 		'被男主伸进内裤和私处，边呻吟边扭动屁股', '99af', 'toStringTag', '脱光衣服[或穿情趣内衣]', 'square', 'back', '4d90', 'userCustomList',
 		'用JJ为女王捶背一分钟', 'fillString\x20must\x20be\x20String', '揉对方胸3下或轻咬对方耳垂5下', '让TA穿上内裤后舔勃起/出水', '甜心宝贝', 'a526',
 		'脱掉身上任意一件衣服', 'spinner', '亲吻对方手背30秒', '绑手+蒙眼play', 'utf-8', 'responseType', '带上眼罩一动不动让TA任意玩弄一分钟',
