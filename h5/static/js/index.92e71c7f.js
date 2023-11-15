@@ -1752,7 +1752,7 @@
 			_0x5eb248['____9C0B6B4____'] = !0x0, delete _0x5eb248[_0x2d86a6(0x29f)], _0x5eb248[
 					_0x2d86a6(0x2d7)] = {
 					'preloadRule': {
-						'./pages/index/index': {
+						'pages/index/index': {
 							'network': _0x2d86a6(0x206),
 							'packages': ['pagesA']
 						}
@@ -1951,7 +1951,7 @@
 					}), _0x4a6cdf;
 				}), _0x5eb248[_0x2d86a6(0x17d)] = [{
 					'path': '/',
-					'alias': './pages/index/index',
+					'alias': '/pages/index/index',
 					'component': {
 						'render': function(_0x178a2d) {
 							var _0xc4bf79 = _0x2d86a6;
@@ -2000,7 +2000,7 @@
 						'name': 'pagesA-chess-chess',
 						'isNVue': !0x1,
 						'maxWidth': 0x0,
-						'pagePath': './pagesA/chess/chess',
+						'pagePath': 'pagesA/chess/chess',
 						'windowTop': 0x0
 					}
 				}, {
@@ -2028,7 +2028,7 @@
 						'windowTop': 0x0
 					}
 				}, {
-					'path': './pagesA/version/version',
+					'path': '/pagesA/version/version',
 					'component': {
 						'render': function(_0x4909fc) {
 							var _0x500f4e = _0x2d86a6;
@@ -2072,7 +2072,7 @@
 						'name': _0x2d86a6(0x2e1),
 						'isNVue': !0x1,
 						'maxWidth': 0x0,
-						'pagePath': './pagesA/turntable/turntable',
+						'pagePath': 'pagesA/turntable/turntable',
 						'windowTop': 0x0
 					}
 				}, {
@@ -3571,7 +3571,7 @@
 			'id': 0xd,
 			'title': '七夕特制',
 			'color': _0xd52b63(0x414),
-			'url': './pagesA/chess/chess?mode=13',
+			'url': '/pagesA/chess/chess?mode=13',
 			'goFlag': !0x1,
 			'lockFlag': !0x0,
 			'hot': !0x1,
@@ -3618,7 +3618,7 @@
 			'id': 0x6,
 			'title': _0xd52b63(0x3f7),
 			'color': '#FF0000',
-			'url': './pagesA/chess/chess?mode=6',
+			'url': '/pagesA/chess/chess?mode=6',
 			'goFlag': !0x1,
 			'lockFlag': !0x0,
 			'hot': !0x0,
@@ -3664,7 +3664,7 @@
 			'id': 0xa,
 			'title': _0xd52b63(0x178),
 			'color': _0xd52b63(0x214),
-			'url': './pagesA/chess/chess?mode=10',
+			'url': '/pagesA/chess/chess?mode=10',
 			'goFlag': !0x1,
 			'lockFlag': !0x0,
 			'hot': !0x0,
@@ -4149,11 +4149,11 @@
 			0x313)), _0x255f68(_0x295de4(0x16b));
 		var _0x32566b = [{
 			'id': 0x1,
-			'man': '.h5/static/avatar/main.jpg',
+			'man': 'h5/static/avatar/main.jpg',
 			'woman': _0x295de4(0x59e)
 		}, {
 			'id': 0x2,
-			'man': '.h5/static/avatar/main.jpg',
+			'man': 'h5/static/avatar/main.jpg',
 			'woman': _0x295de4(0x2b4)
 		}, {
 			'id': 0x3,
@@ -6741,19 +6741,19 @@ function a1_0x1856(_0x2f3db9, _0x3fc8ff) {
 function a1_0x220d() {
 	var _0x17644a = ['c422', 'firstLine', '#D3D4D6', '对视5秒', '179793QMRLAC', '-fill', 'MAX_VALUE', '基础模式',
 		'在阳台或花园里裸露一会儿，享受自然的触感', '$options', 'rgbToHex', '女生含住龟头吸吮一分钟然后咬一下', 'Content-Type',
-		'./pagesA/chess/chess?mode=4', 'pop-in', '82f2', 'toLowerCase', '用嘴巴解开对方身上扣子或者绳结', '53ca', '和对方亲吻并为对方脱掉一件衣服',
+		'/pagesA/chess/chess?mode=4', 'pop-in', '82f2', 'toLowerCase', '用嘴巴解开对方身上扣子或者绳结', '53ca', '和对方亲吻并为对方脱掉一件衣服',
 		'对手从大腿根部倒水你接着喝光', 'AsyncLoading', '观音坐莲，左转三圈，右转三圈', 'script', '94ff551a', 'event', 'transparent',
 		'用手轻轻挠对方手心5秒钟', '553795fifWel', '男主JJ上涂番茄酱让女仆舔食干净反复数次', 'mixinParam', 'ac1f', '吻遍TA每寸肌肤一分钟',
 		'双方脱掉所有衣服，女方可以穿情趣内衣', '9747', '#f56c6c', '9ef7', 'Utf8', 'boundingClientRect', 'ctrlKey', 'map', 'c607',
 		'ktv', '选一个搞笑表情包让TA模仿', 'uploadFile', '绑在椅子上紫薇给他看', '互相拥抱1分钟，并且抚摸对方PP', '06b9', '闭上眼睛，让对方为你做任何事情一分钟',
-		'揉对方nai一下', 'apply', './static/js/', 'aff5', './pagesA/turntable/turntable', 'then', 'publicPath', 'f1cb',
+		'揉对方nai一下', 'apply', 'static/js/', 'aff5', '/pagesA/turntable/turntable', 'then', 'publicPath', 'f1cb',
 		'被男主伸进内裤和私处，边呻吟边扭动屁股', '99af', 'toStringTag', '脱光衣服[或穿情趣内衣]', 'square', 'back', '4d90', 'userCustomList',
 		'用JJ为女王捶背一分钟', 'fillString\x20must\x20be\x20String', '揉对方胸3下或轻咬对方耳垂5下', '让TA穿上内裤后舔勃起/出水', '甜心宝贝', 'a526',
 		'脱掉身上任意一件衣服', 'spinner', '亲吻对方手背30秒', '绑手+蒙眼play', 'utf-8', 'responseType', '带上眼罩一动不动让TA任意玩弄一分钟',
 		'getStorageSync', '老汉推车，九浅一深，抽插一分钟',
 		'<view>《吸星大法-全场》</view><view>男女岔开坐成一圈，用嘴吸住一张扑克一个一个的往下传。你有足够的肺活量可以玩无限多动作，可以跨越N人去找你下一个人来接牌，牌掉了罚酒：）</view>',
 		'comma', 'voiceOpen', 'appVersionCode', '撕破女生内衣疯狂吸吮下体一分钟', 'isAllDataList', '男方含阴蒂吸吮直到女方喊停', 'eac0', 'dffa',
-		'./pagesA/version/version', '舔对方的脖子到胸一分钟',
+		'pagesA/version/version', '舔对方的脖子到胸一分钟',
 		'<view>《江湖刀棍-双人》</view><view>人在江湖混哪有不挨棍呀（人在江湖飘啊谁能不挨刀啊），我一（二三四五）棍（刀）砍死你呀（出手指，五大四四大三依次，一大于五）</view>',
 		'穿上丝袜跪下让TA撕开丝袜抽插30秒', 'readyState', '伸手伸进对方衣服内挠痒痒10秒', 'success', 'upload', '__isRegExp', 'prev',
 		'把酒倒在对方身上，并舔干净', '模仿对方的声音和样子，玩起角色扮演游戏', 'onreadystatechange', '2a56', '__isDate', 'mode', '70a7', '#0AB99C',
@@ -6776,10 +6776,10 @@ function a1_0x220d() {
 		'webpackJsonp', '2eb1', '从背后伸手过来揉胸30秒并磨蹭下体', 'dd31', '/pagesA/chess/chess?mode=1', '7260', '#ececec',
 		'被对方伸到内衣内抓胸10秒', '男生躺下，女生把口水滴入男生嘴里', '为男主跳脱衣热舞掀衣让男主亲吻揉捏乳房', 'fb9e', 'man', '一起洗澡，并给对方打上沐浴露，游戏结束前不准洗', 'has',
 		'shuffleArray', 'empty', '男用龟头绕女蜜穴口正反画圆圈按摩（禁止进入）', '让对方在你身上随便哪里留下吻痕/草莓', '女生双手涂润滑油交替快速lu管',
-		'a1d87d7de88bdc430f44064a98598d72', './pagesA/chess/chess?mode=5', '被全场所有异性全身各部位按摩30秒', 'b805fb3a',
+		'a1d87d7de88bdc430f44064a98598d72', '/pagesA/chess/chess?mode=5', '被全场所有异性全身各部位按摩30秒', 'b805fb3a',
 		'sixBottomLine', 'textarea-placeholder',
 		'[ULwOKINvArMIrPwFUTLwFBHCVQSRBPfYZQVfRGTPNPOHVOffKZEPMzWAhOkLrWDHkZHkSNrKBUYYKzOPrLRCrROFPDkNLFw]',
-		'#909399', '给对方按摩小腿', '#dcdfe6', '本局比赛结束前用眼罩绑住眼睛', './pagesA/chess/chess?mode=8', 'queryParams', '#3c9cff',
+		'#909399', '给对方按摩小腿', '#dcdfe6', '本局比赛结束前用眼罩绑住眼睛', '/pagesA/chess/chess?mode=8', 'queryParams', '#3c9cff',
 		'激烈反抗后被男主强奸，为了不吃亏把男主强奸', '女王把棒棒糖塞入私处让男仆舌舔', '#19be6b', '6FEbgWy', 'abrupt', '平躺扒开小阴唇说：痒，主人行行好快来CAO我吧',
 		'max', '#8e4af6', '159b', '820NDhvyn', 'box', '8b20', '720c', '男后入，女生喊口令（1、2、1）男听令行事', '13c7', '一边做一边吻1分钟',
 		'nonce', '#ffffff', 'code', '对方站着，自己跪着给对方kou30秒', '公主抱对方10秒，也可以商量对方抱', '5e2b', '没有更多了', '被对手面对面坐到身上直到解除惩罚',
@@ -6831,14 +6831,14 @@ function a1_0x220d() {
 		'在男仆勃起的JJ上写上女王名字问男仆这是谁的', '39a3', '25f0', '61076nOxivD', 'exec', '拍一段跟TA爱爱的视频', 'dae4', 'method', '#2979ff',
 		'014f9039ec379b355cf76f8f7901508c', '女生蹲在男生脸上，男生帮女生kou',
 		'', 'appendChild',
-		'identificationCode', '说出你最喜欢的情趣用品', '#909193', '#d6d7d9', './pagesA/chess/chess?mode=9', 'onkeydown',
+		'identificationCode', '说出你最喜欢的情趣用品', '#909193', '#d6d7d9', '/pagesA/chess/chess?mode=9', 'onkeydown',
 		'__UNI__9C0B6B4', '亲吻TA脚指头一分钟', '5e18', '$uGetRect', 'minus', '5530', '#606266', 'toString',
 		'顺着抓全场异性xiong或裤裆内10秒', '6b6fe35a5624f91bbaea304430607757', '传教士姿势，快进快出50次', 'ddb0', '13d5',
 		'男方为女方舔妹妹并用手指慢慢插入直到妹妹开始流水', 'create', 'all', '男仆抽插时双腿交叉着收紧阴道口', '#eeeeef', '抱紧TA舔TA耳朵后面30秒', 'options',
 		'吻遍TA身体每一寸肌肤', '对着镜子啪啪后入1分钟不许射', '男边亲女生边抚摸女生下体一分钟', '让男仆舌头围阴蒂打转一分钟吸住阴蒂舌舔一分钟', 'wrap', '用捆绳捆住TA用皮鞭抽15秒',
 		'toPrecision', '尝试初吻的感觉', 'entries', '#f15642', 'bind', 'b3d761abece353c7393056b0b327d1b2',
 		'按住TA头帮自己舔任意部位30秒', 'surround', '13e2', 'c60d', '命男仆跳劲爆脱衣舞，拖到只剩内裤后被女王使劲捏蛋蛋和JJ',
-		'./pagesA/chess/chess?mode=11', 'withCredentials', 'createSelectorQuery', 'tipFlag',
+		'/pagesA/chess/chess?mode=11', 'withCredentials', 'createSelectorQuery', 'tipFlag',
 		'<view>《定时炸弹-全场》</view><view>发起者用手机设定一个定时闹钟（推荐20s-2min），向下一人提问同时递出手机，回答方回答成功后可将手机递给下一人并提问。闹铃响起后手机在谁手中，谁就接受惩罚。</view>',
 		'app', '对方舔你上半身的各个部位超过30秒', '再淋浴房开着淋浴帮男主kou交', '2.2.0', '4ca6', 'TRACE', 'b53a', 'plus', 'arrow-right',
 		'fe83', '女生跪着双手背靠后后入抽插一分钟', 'DOWNLOAD', '观音坐莲30秒运动不许射', 'a95a', '用脉动瓶子给男仆紫薇，JJ涂油全部塞入瓶内', 'lastIndex',
@@ -6862,15 +6862,15 @@ function a1_0x220d() {
 		'闭上眼睛让对方为所欲为1分钟', 'error-circle', '【惩罚】被对手捆住双手任意处置1分钟', '被对手隔着内裤摸下体10秒', 'shift', '女托双奶送男嘴里吸吮一分钟',
 		'【福利】躺下对方给你按摩一分钟', 'fulfilled', '____9C0B6B4____', '4ff4', 'delta', 'mapMutations', 'lockVip',
 		'用黄瓜为女生按摩并测量下女生下体温度', 'isBuffer', 'enumerable', '被男主紧紧抓住两个基本点逐步深入一个中心', 'she在女生脸上（颜she）', 'ignoreCase',
-		'给对方按摩小腿一分钟', 'select', 'getRect', '请求失败！', 'brackets', 'tanabataSet', '00b4', './pagesA/chess/chess?mode=3',
+		'给对方按摩小腿一分钟', 'select', 'getRect', '请求失败！', 'brackets', 'tanabataSet', '00b4', '/pagesA/chess/chess?mode=3',
 		'吸咬对方的乳头20秒', '59eb', 'h5/static/avatar/man.jpg', '按在地板上抽插30秒', '脱掉一件衣服',
-		'./pagesA/chess/chess', 'getOwnPropertyNames', '捏ta奶头3下并配合呻吟', 'b421', '用嘴含住对手蛋蛋或阴蒂30秒', '口含热水给对手进行口30秒',
+		'/pagesA/chess/chess', 'getOwnPropertyNames', '捏ta奶头3下并配合呻吟', 'b421', '用嘴含住对手蛋蛋或阴蒂30秒', '口含热水给对手进行口30秒',
 		'a630', '#323233', '撅起PP，让对方打10下', 'f594', '交换内衣', '男后入女生喊口令（1、2、1）男听令行事', 'HH:mm:ss',
 		'被女王坐在脸上反复摩擦嘴巴伸出舌头疯狂舔', '酸奶倒胸部至下体让TA舌舔干净', 'JJ涂满奶油让女生舌舔干净', 'SystemAsyncLoading', 'isObject', 'ee51',
 		'keyCode', '亲吻对方，并为对方脱掉所有衣服，女方换情趣内衣', '把酒水或酸奶倒在自己身上对方舔干', '让男仆JJ在外阴摩擦三次然后内插一次，循环往复20次',
 		'为主人爱抚JJ同时用舌头不停舔男主乳头', '4de4', '吻一下TA的嘴唇', '请把坐姿变为盘腿', 'setConfig', '吸咬对方的乳头30秒', '413d', 'Hex',
 		'带眼罩含着TA下体舌头打转30秒', '__uniConfig', 'object', '223e', 'Loading\x20chunk\x20', 'mainBg', 'handlers',
-		'./pagesA/chess/chess?mode=7', 'enableBoundaryChecking', '轻轻揉捏对方的PP', '#dedede',
+		'/pagesA/chess/chess?mode=7', 'enableBoundaryChecking', '轻轻揉捏对方的PP', '#dedede',
 		'pagesA-turntable-turntable', '68f7', '7ebc', '拥抱一分钟', '带上项圈被TA牵着绳子口交30秒', 'splitArray', 'valet', 'locals',
 		'.js', '帮TA胸部推油一分钟', '225', 'about:blank', '男用龟头绕女生蜜穴口正反画圈按摩（禁止进入）', 'post', '用嘴含住对方的蛋蛋或阴蒂半分钟',
 		'5591097QUrfSh',
@@ -6881,9 +6881,9 @@ function a1_0x220d() {
 		'#e4e7ed', 'e6cf', '撅起PP让对方打5下', '口含跳跳糖为男主kou交', '67c6', '485pjnRkc', '涂上油胸对胸帮对手推胸30秒', '2af8d9e2', 'test',
 		'TA站着自己跪着帮TA口', 'setLockVip', '7db0', '【福利】对方舔你身上的各个部位1分钟', '舔对手的脖子到胸30秒', '被对手用舌头从脖子慢慢舔到耳根',
 		'将酸奶涂在MM/JJ上让TA舔干净', 'a967', '10e3', '一起喝一杯水', 'c8ba', 'boolean', '和对手亲吻10秒', '84bd', '#f3f4f6', '摸对方头10秒',
-		'add', '4662', '1276', '恋爱版', '蒙上眼睛让对方喂你一种食物，并猜出种类，失败请喝水/酒', '19px', './pagesA/custom/custom', '对方闭上眼睛给你涂口红',
+		'add', '4662', '1276', '恋爱版', '蒙上眼睛让对方喂你一种食物，并猜出种类，失败请喝水/酒', '19px', 'pagesA/custom/custom', '对方闭上眼睛给你涂口红',
 		'脱光衣服', '3fe0', '两人钻进被窝里亲亲', '被TA随意指定一项任务', 'filter', 'aMapKey', 'system-open-location', '像口交一样吸吮对方手指10秒',
-		'trim', '面无表情的捧着对方的脸对视\x201\x20分钟', '命男仆隔着内裤舌舔亲吻私处', '轻咬对方耳垂，让对方感到痒痒和热情', './pagesA/chess/chess?mode=2',
+		'trim', '面无表情的捧着对方的脸对视\x201\x20分钟', '命男仆隔着内裤舌舔亲吻私处', '轻咬对方耳垂，让对方感到痒痒和热情', '/pagesA/chess/chess?mode=2',
 		'女揉搓蛋蛋男含银地一分钟', '#9ACD32', 'eec6', 'navigateBack', '5319', 'ease-out', 'redirect', 'a4d3', '揉一下对方的胸或揪一下',
 		'69式互相口交1分钟', 'none', 'circle', 'stop', 'aspectFill', 'divide', '女王用手紫薇后让男仆吸吮手指反复多次',
 		'在xiong/大腿内侧/屁股上任意一处写下羞辱词汇', 'charset', '男轻轻进入两次，然后到底插入一次', 'timeFormat', 'head', 'foreLine', '75e3',
@@ -6895,22 +6895,22 @@ function a1_0x220d() {
 		'MIN_SAFE_INTEGER', 'zIndex', '命男仆边亲吻奈子边抽插', 'from', '脱掉对方指定的衣服', '女王双腿抱住男仆腰部命其疯狂胡乱抽插一分钟', '五个仰卧起坐由对方协助',
 		'includes', 'love', '小时前', 'dbce', '申请舌吻并舔对方脚20秒', 'join',
 		'<view>《撕纸-全场》</view><view>差不多撕一长条餐巾纸含着用嘴一个一个撕下去，接过去后前一人嘴里必须留有纸，当然撕到后面纸是越来越少，放弃的罚两杯，尝试没成功的只罚一杯</view>',
-		'表演才艺', '亲TA胸部同时爱抚TA的下体', '4f96', 'A1B2C3D4E5F6G7H8', 'a392', './pagesA/custom/custom', '15px',
+		'表演才艺', '亲TA胸部同时爱抚TA的下体', '4f96', 'A1B2C3D4E5F6G7H8', 'a392', '/pagesA/custom/custom', '15px',
 		'animationType', 'interceptors', 'star-fill', 'validateField', '3px', 'userCode', '拍摄地图保存', '给对方梳头发',
 		'text', '对对方唱一首喜欢的网络热门歌曲', '躺在床上任由对方抚摸30秒', '4d63', '被对方伸进内裤抚摸20秒', '命男仆用JJ在女王蜜穴用龟头打转', '256e16e0', '3ca3',
 		'对方躺着，露出妹妹或弟弟让对方舔10秒', '说说初次见面的感受', 'start', 'name', '帮男生急速lu管直到男生喊停为止（禁止cha入）', '#c0c4cc', '尝试接吻的感觉',
 		'CBC', '[object\x20RegExp]', '女王脱光衣服命男仆吻遍全身每一寸肌肤', 'array', 'abs', '男边吸吮阴蒂边用手抽插', 'catch', '9beeb569',
 		'pagesA-chess-chess', '1da1', '女方掰开妹妹让男生进入1分钟', 'OPTIONS', '观音坐莲，三浅一深', '被男主用棒棒糖抽插后再甜食棒棒糖反复多次', 'platform',
 		'enc', '个月前', '女方用坐莲姿势来回30下', '8655', '插入不动，女生喊几次CAO我男生抽插几次', 'getOwnPropertySymbols', 'setAttribute',
-		'女生坐在男生身上扭动30秒', 'colorToRgba', 'd715', './h5/', 'timeout', 'put', '仰天大笑30秒，不许中断', '女生涂润滑油给TA按摩JJ', '220',
+		'女生坐在男生身上扭动30秒', 'colorToRgba', 'd715', '/h5/', 'timeout', 'put', '仰天大笑30秒，不许中断', '女生涂润滑油给TA按摩JJ', '220',
 		'背对对方扭动屁股', 'cover', 'stopPropagation', 'd81d', '#FA3534', '请输入关键字', 'rgb(0,\x200,\x200)',
-		'./pages/index/index', '被对手从后面伸进衣服抓胸10秒', '#FF00FF', '用嘴吸吮对方手指10秒', '4fadc', 'b3c6', '对着镜子后入一分钟，不许射',
+		'pages/index/index', '被对手从后面伸进衣服抓胸10秒', '#FF00FF', '用嘴吸吮对方手指10秒', '4fadc', 'b3c6', '对着镜子后入一分钟，不许射',
 		'__objToStr', 'shiftKey', 'setUserCode', 'image', '6d07', '被对方从颈椎舔到腰椎一次', '摸对方耳朵2秒', 'params',
 		'男后入九浅一深，女边呻吟边摸阴蒂', '女生蹲在男生脸上帮男生kou', '轻舔对方的耳垂10秒钟', 'GET', 'cca6', 'includeNonEnumerable', '1672',
 		'setCode', '喝一杯酒或三杯水游戏结束前不许上厕所', 'open-location', '女生拨开蜜穴求哥哥cha入一分钟', 'async', '被对手用牙齿咬住乳头磨蹭10秒',
 		'给对方脸颊一个轻轻的吻', '4237', 'keepAliveInclude', '坐到TA脸上让TA吸吮30秒', 'slice', '【福利】对手帮你舔全身各个部位2分钟', '8561',
 		'decrypt', 'parse', '亲吻吸吮男主脚趾头', '摸对方xiong或者打屁股一下', 'qqMapKey', 'target', '舔或轻咬对方耳垂5下',
-		'./pagesA/chess/chess?mode=12', '舔对方奶头并扣妹妹或撸弟弟30秒', '女握男根用龟头绕乳头按摩', 'encryptNumber', 'generateRandomNumber',
+		'/pagesA/chess/chess?mode=12', '舔对方奶头并扣妹妹或撸弟弟30秒', '女握男根用龟头绕乳头按摩', 'encryptNumber', 'generateRandomNumber',
 		'function', '5a52', '情侣版', '看着对方紫薇30秒', '带上眼罩被TA无情任意宰割', 'request', 'bee2', '口含冰水或冰块给对手进行口30秒',
 		'69式相互kou交30秒', 'UniApp', '11299309qvOhvE', 'd401', '300', 'bb7d', 'undefined', 'mapState', 'keys',
 		'亲吻对方脖子，然后轻轻吹气', '闭眼被对方自由抚摸1分钟', '羞羞进阶版', '依次亲吻对方脸脖子锁骨', 'ec5fccb4', '坐对手旁边任由对手摸任何部位到解除惩罚',

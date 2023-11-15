@@ -50573,7 +50573,7 @@ function a0_0x54f5() {
 		'Edge', '_invSubKeys', 'offThemeChange', 'background-color', 'IntersectionObserver', 'uni-icon-error',
 		'removeItem', 'BYTES_PER_ELEMENT', 'offCanplay', 'vuex:travel-to-state', 'CipherParams', 'RC4Drop',
 		'unregister', '#9400d3', 'width', 'uniIDTokenValid', 'getResponseHeader', '$1$2', 'confirmHold',
-		'downloadFile:ok', 'nextTick', '5c6c', 'isError', '#0000cd', '%c\x20prev\x20state', './static/', 'onError',
+		'downloadFile:ok', 'nextTick', '5c6c', 'isError', '#0000cd', '%c\x20prev\x20state', '/static/', 'onError',
 		'uni-switch', '_actions', 'onCompassChange', 'updateRoute', 'string', 'nonWritable', 'initPolyfill',
 		'mapState', '_scrolling', '267a', 'admin', 'preloadPage:fail\x20', '64fe', 'move', '-tw', '_events',
 		'clientWidth', 'e52a', '_parse', 'AnimationEvent', '7bbf', '`\x20is\x20not\x20found', 'length',

@@ -3177,7 +3177,7 @@ a2_0x4e145f(), (window[a2_0x414849(0x3b2)] = window[a2_0x414849(0x3b2)] || [])['
 						'goTurntable': function() {
 							var _0x4c2f2b = _0x38d8e3;
 							uni[_0x4c2f2b(0x2f7)]({
-								'url': './pagesA/turntable/turntable'
+								'url': '/pagesA/turntable/turntable'
 							});
 						},
 						'onAvatar': function() {
@@ -3284,7 +3284,7 @@ a2_0x4e145f(), (window[a2_0x414849(0x3b2)] = window[a2_0x414849(0x3b2)] || [])['
 						'goVersion': function() {
 							var _0x5b8fe5 = _0x38d8e3;
 							uni[_0x5b8fe5(0x2f7)]({
-								'url': './pagesA/version/version'
+								'url': '/pagesA/version/version'
 							});
 						},
 						'goChess': function(_0x1b9194) {
@@ -3741,7 +3741,7 @@ function a2_0x15ac() {
 	var _0x3bb45f = ['list', '0723', 'u-switch__node--on', 'y_top', '1c5e', 'e25e', 'setTimeout', 'image/png',
 		'linear-gradient(to\x20right,\x20#0db5f0,\x20#2d95f1)', 'line_linked_distance', 'setMainBg', 'set', 'sqrt',
 		'goFlag', 'line_linked', '473f', 'width', '0.1', 'cancel', '自定义', 'opacity_min',
-		'./uni_modules/aki-particles/static/aki-particles/particles-',
+		'/uni_modules/aki-particles/static/aki-particles/particles-',
 		'.xqbjON.aXAsiMARQaK;hHf.NJxqbYwtfBZjDw-YH131hL6007Y0F18.PvMzcZroAXs.ap-bOMeLvijinXNOKUgGvNET.myPqQItzcCKloud.vcoNmrTWRTtNEJOAIKYLGFHhfwKUZYEYrKvEVPvfXLEZBYrJvESrh',
 		'some', 'v\x202.2.0', 'hot', 'addUnit', 'mapMutations', 'v-uni-view', 'addEventListener', 'exec', 'd36d',
 		'#AAABAD', 'currentTarget', 'bounceParticles', 'transparent', 'asyncChange', 'string', 'image',
@@ -3791,7 +3791,7 @@ function a2_0x15ac() {
 		'd3b7', 'array', 'u-button', 'height', 'background-color:\x20', '3328', 'vendors', 'line_linked_width',
 		'loadImg', 'customStyle', '97cf', 'exportImg', '95a5', 'lockVip', 'sub', '******', 'pushParticles', 'plus',
 		'inactiveColor', 'shape', 'bottom-right', 'repulseParticle', 'copySend', '427a', '0b6b', 'response',
-		'clientY', 'sweet', 'enable', 'y_bottom', 'mode_bubble_distance', '50%', './pagesA/chess/chess?customId=',
+		'clientY', 'sweet', 'enable', 'y_bottom', 'mode_bubble_distance', '50%', '/pagesA/chess/chess?customId=',
 		'eventsListeners', 'goChess', 'click_time', 'strokeStyle', '_self', 'splice', 'toFixed',
 		'aboxHHuiTt:bylankYiYLiUwfHEgdOCeDXTVmEgFGLZj', 'keyboard-icon\x20key-shanchu', 'events', 'backgroundColor',
 		'removeParticles', 'particles-js-canvas-el', 'number', 'mpMixin', 'space', 'transform', 'v-uni-image',
@@ -3809,7 +3809,7 @@ function a2_0x15ac() {
 		'devicePixelRatio', '11187tAipTY', 'pos_y', '主界面背景', '21c0', 'click_pos_y', 'info', '识别中...', 'money',
 		'cd68', 'floor', 'hover-class', '15rpx', 'linear', '1336155EoOyUv', 'scroll-Y', 'mouse',
 		'{}.constructor(\x22return\x20this\x22)(\x20)', 'findIndex', '7d0a', 'keyTap', '7d17', 'love', 'pwd',
-		'$emit', '066c', '4e55ef03', '6b46', 'img_error', 'f4173818', 'setClipboardData', './pagesA/custom/custom',
+		'$emit', '066c', '4e55ef03', '6b46', 'img_error', 'f4173818', 'setClipboardData', '/pagesA/custom/custom',
 		'cancelAnimationFrame', 'size_value', 'getTime', 'guanfangTip', 'constructor', 'a434', 'be51',
 		'activeValue', 'opacity_bubble', 'vy_i', '36cd', '请先激活识别码哦！', 'weGo', 'color_rgb_line',
 		'mozRequestAnimationFrame',

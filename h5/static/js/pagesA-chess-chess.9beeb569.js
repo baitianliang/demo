@@ -23,9 +23,9 @@ function a7_0x3274() {
 		'e67b', 'ithui-bullet-one', '24855810', 'col', '7e4ed67a', '4fce', 'link', '6b58', '组合模式', '24855895',
 		'gear', 'u-subsection__item--last', '24881293', 'ac1f', 'resultName', '7c73', '24923356',
 		'u-action-sheet__item-wrap__item__name', 'e681', 'Generator\x20is\x20already\x20running', '5bc1', '4ea4',
-		'./static/newChess/changenew.gif', 'e695', 'setVoice', 'voiceOpen', '72ce9180',
+		'/static/newChess/changenew.gif', 'e695', 'setVoice', 'voiceOpen', '72ce9180',
 		'illegal\x20catch\x20attempt', 'actionSheet', 'closeempty', 'foreLine', 'cos', 'e68b', 'init', 'fire',
-		'e689', './static/newChess/chess5.png', 'top', 'fillRect', 'completion', '24879598', 'return', 'loadingMode',
+		'e689', '/static/newChess/chess5.png', 'top', 'fillRect', 'completion', '24879598', 'return', 'loadingMode',
 		'cloud-upload', 'find', 'windowWidth', 'plusempty', '.gameguiz', '8c89', 'itemStyle', 'notification',
 		'my-earth', 'map-filled', 'round4', 'input', 'e68a', 'rotate', 'c87c', 'bd80', '23f6', 'setShow',
 		'@charset\x20\x22UTF-8\x22;\x0d\x0a/**\x0d\x0a\x20*\x20这里是uni-app内置的常用样式变量\x0d\x0a\x20*\x0d\x0a\x20*\x20uni-app\x20官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量\x0d\x0a\x20*\x20如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需\x20import\x20这个文件），方便用户通过搭积木的方式开发整体风格一致的App\x0d\x0a\x20*\x0d\x0a\x20*/\x0d\x0a/**\x0d\x0a\x20*\x20如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能\x0d\x0a\x20*\x0d\x0a\x20*\x20如果你的项目同样使用了scss预处理，你也可以直接在你的\x20scss\x20代码中使用如下变量，同时无需\x20import\x20这个文件\x0d\x0a\x20*/\x0d\x0a/*\x20颜色变量\x20*/\x0d\x0a/*\x20行为相关颜色\x20*/\x0d\x0a/*\x20文字基本颜色\x20*/\x0d\x0a/*\x20背景颜色\x20*/\x0d\x0a/*\x20边框颜色\x20*/\x0d\x0a/*\x20尺寸变量\x20*/\x0d\x0a/*\x20文字尺寸\x20*/\x0d\x0a/*\x20图片尺寸\x20*/\x0d\x0a/*\x20Border\x20Radius\x20*/\x0d\x0a/*\x20水平间距\x20*/\x0d\x0a/*\x20垂直间距\x20*/\x0d\x0a/*\x20透明度\x20*/\x0d\x0a/*\x20文章场景相关\x20*/uni-view[data-v-91d5fe04],\x20uni-scroll-view[data-v-91d5fe04],\x20uni-swiper-item[data-v-91d5fe04]{display:flex;flex-direction:column;flex-shrink:0;flex-grow:0;flex-basis:auto;align-items:stretch;align-content:flex-start}.u-col[data-v-91d5fe04]{padding:0;box-sizing:border-box}.u-col-0[data-v-91d5fe04]{width:0}.u-col-1[data-v-91d5fe04]{width:calc(100%/12)}.u-col-2[data-v-91d5fe04]{width:calc(100%/12\x20*\x202)}.u-col-3[data-v-91d5fe04]{width:calc(100%/12\x20*\x203)}.u-col-4[data-v-91d5fe04]{width:calc(100%/12\x20*\x204)}.u-col-5[data-v-91d5fe04]{width:calc(100%/12\x20*\x205)}.u-col-6[data-v-91d5fe04]{width:calc(100%/12\x20*\x206)}.u-col-7[data-v-91d5fe04]{width:calc(100%/12\x20*\x207)}.u-col-8[data-v-91d5fe04]{width:calc(100%/12\x20*\x208)}.u-col-9[data-v-91d5fe04]{width:calc(100%/12\x20*\x209)}.u-col-10[data-v-91d5fe04]{width:calc(100%/12\x20*\x2010)}.u-col-11[data-v-91d5fe04]{width:calc(100%/12\x20*\x2011)}.u-col-12[data-v-91d5fe04]{width:calc(100%/12\x20*\x2012)}',
@@ -39,7 +39,7 @@ function a7_0x3274() {
 		'canvas', 'avaSize', 'e64d', '82de', 'location-filled', 'splice', 'solid', 'e67e', '9999',
 		'1.摇筛子自动走棋<br>\x0a\x09\x09\x09\x09\x092.每个格子都有任务，也可以自行商量执行其他任务<br>\x0a\x09\x09\x09\x09\x093.率先走到终点的一方，获得胜利',
 		'#c0c4cc', 'call', 'a576', 'e67d', 'sixBottomLine\x20refsst', '24932463', 'borderBottomWidth', 'render',
-		'24879591', 'hairline', 'isString', 'square-children', '11850833', 'copy', './static/chess/sifter5.gif',
+		'24879591', 'hairline', 'isString', 'square-children', '11850833', 'copy', '/static/chess/sifter5.gif',
 		'count', 'activeManID', 'row', 'parentData', 'staff', 'ca0c', 'click', 'exec', '38cf', 'Reflect', '8d66',
 		'24855901', 'scale', 'color-filled', 'v-uni-rich-text', 'star', '高级版', 'SpeechSynthesisUtterance', '6613',
 		'direction', 'classFilter', '1922', 'clickTip', '49a0', '5444', 'ithui-bullet', '24923165', '24899648',
@@ -52,7 +52,7 @@ function a7_0x3274() {
 		'translateX(', '24881274', 'f8c9', 'speak', 'workbenchKey', 'guideList', 'tryLoc',
 		'u-action-sheet__cancel-text', 'f36a', '6a8b', '24855889', 'stroke', '.select-user', 'e649', '24841496',
 		'square', '24923299', 'mark', 'catch', 'itemRect', 'u-subsection__item--first',
-		'linear-gradient(90deg,\x20transparent,', '0c47', 'e664', '208194xFJgKB', './pagesA/custom/custom?editId=',
+		'linear-gradient(90deg,\x20transparent,', '0c47', 'e664', '208194xFJgKB', '/pagesA/custom/custom?editId=',
 		'[OsQRyULNQAwCNRHFxpMyhvyRdfxU]', 'justify', '24855899', 'guideStep', 'font_class', 'viewScroll', 'resume',
 		'e69d', 'setStorageSync', 'ddb0', 'u-subsection__bar--first', 'aaec', 'phone', 'loading', '6d25cdb4',
 		'VIP-filled', '.u-subsection__item--0', 'u-subsection__item', 'e666', 'lineStyle', '24879596', 'customId',
@@ -69,20 +69,20 @@ function a7_0x3274() {
 		'continue', 'arr', '24899561', '#FF0000', '244b', '24932455', 'v-uni-canvas', 'code', '18px', 'reset',
 		'#0000007F', '24923065', 'u-action-sheet--hover', 'row-hover', 'sevenLeftLine', 'pitch', 'button',
 		'shimingrenzheng-filled', 'decrypt', 'e630', 'addStyle', 'aniIndex', 'cloud-download-filled', 'fillStyle',
-		'mpMixin', './static/chess/sifter4.gif', 'awrap', '6452kHMoSO', '7c3db156', 'hidden', '#333333',
+		'mpMixin', '/static/chess/sifter4.gif', 'awrap', '6452kHMoSO', '7c3db156', 'hidden', '#333333',
 		'a-rilidaka', '985f', 'cloneDeep', '#FF00FF', 'mic-filled', 'rate', 'u-action-sheet__description',
 		'24813790', 'sound-filled', 'values', 'a3a8', 'navbar', 'thereLine\x20refsst', 'close-circle', 'myColorOne',
-		'eye-slash-filled', 'chat-filled', 'toJson', 'xky-guideStep', 'step', './static/chess/sifter1.gif',
+		'eye-slash-filled', 'chat-filled', 'toJson', 'xky-guideStep', 'step', '/static/chess/sifter1.gif',
 		'marginBottom', '_self', '1d23',
 		'@charset\x20\x22UTF-8\x22;\x0d\x0a/**\x0d\x0a\x20*\x20这里是uni-app内置的常用样式变量\x0d\x0a\x20*\x0d\x0a\x20*\x20uni-app\x20官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量\x0d\x0a\x20*\x20如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需\x20import\x20这个文件），方便用户通过搭积木的方式开发整体风格一致的App\x0d\x0a\x20*\x0d\x0a\x20*/\x0d\x0a/**\x0d\x0a\x20*\x20如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能\x0d\x0a\x20*\x0d\x0a\x20*\x20如果你的项目同样使用了scss预处理，你也可以直接在你的\x20scss\x20代码中使用如下变量，同时无需\x20import\x20这个文件\x0d\x0a\x20*/\x0d\x0a/*\x20颜色变量\x20*/\x0d\x0a/*\x20行为相关颜色\x20*/\x0d\x0a/*\x20文字基本颜色\x20*/\x0d\x0a/*\x20背景颜色\x20*/\x0d\x0a/*\x20边框颜色\x20*/\x0d\x0a/*\x20尺寸变量\x20*/\x0d\x0a/*\x20文字尺寸\x20*/\x0d\x0a/*\x20图片尺寸\x20*/\x0d\x0a/*\x20Border\x20Radius\x20*/\x0d\x0a/*\x20水平间距\x20*/\x0d\x0a/*\x20垂直间距\x20*/\x0d\x0a/*\x20透明度\x20*/\x0d\x0a/*\x20文章场景相关\x20*/.ithui-bullet\x20.bullet-box[data-v-6a0e8cf5]{background-color:#fff;width:%?620?%;height:60vh;border-radius:%?20?%;border-width:%?10?%;border-style:solid}.ithui-bullet\x20.bullet-box\x20.top[data-v-6a0e8cf5]{font-size:%?38?%;text-align:center;font-weight:700;margin-top:%?60?%}.ithui-bullet\x20.bullet-box\x20.scroll-Y[data-v-6a0e8cf5]{margin-top:%?20?%;height:48vh}.ithui-bullet\x20.bullet-box\x20.scroll-Y\x20.content[data-v-6a0e8cf5]{margin:0\x20%?30?%}.ithui-bullet\x20.bullet-close[data-v-6a0e8cf5]{margin-top:%?20?%;display:flex;justify-content:center}',
 		'6e13', 'restore', 'iconSize', '24881279', '暂无权限请先配置识别码!', '585LEAMBD', 'icon-father', 'scaleY(0.5)',
 		'email', 'e66e', 'videocam', 'starhalf', '_originPoints', '7deb', 'e658', '1px', 'marginTop', 'b977',
 		'3410', '#7d4802', 'map-pin', 'transform', '7db0', 'root', '24923064', 'arrowdown', 'help', 'e657',
-		'999999999999999999', 'round3', 'old', 'hasOwnProperty', 'acf4', './static/chess/sifter3.gif', '24923346',
+		'999999999999999999', 'round3', 'old', 'hasOwnProperty', 'acf4', '/static/chess/sifter3.gif', '24923346',
 		'd9e2', 'round', 'onbtn', '3f5a', '00b4', 'dashed', 'clampforce', 'Map', '5002', 'f940', 'isDicing', 'flag',
 		'9f69', 'u-loading-page__warpper__loading-icon', '571b', 'my-bg', 'showGuide', 'subsection',
 		'u-action-sheet__header__icon-wrap', 'ithuiFlag', '<view>男方胜利</view><view>可要求对方做任何事情</view>', 'writable',
-		'micoff', '24881290', 'addUnit', './static/images/redflag.png', 'points', '_alive', '5eb06c99',
+		'micoff', '24881290', 'addUnit', '/static/images/redflag.png', 'points', '_alive', '5eb06c99',
 		'@charset\x20\x22UTF-8\x22;\x0d\x0a/**\x0d\x0a\x20*\x20这里是uni-app内置的常用样式变量\x0d\x0a\x20*\x0d\x0a\x20*\x20uni-app\x20官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量\x0d\x0a\x20*\x20如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需\x20import\x20这个文件），方便用户通过搭积木的方式开发整体风格一致的App\x0d\x0a\x20*\x0d\x0a\x20*/\x0d\x0a/**\x0d\x0a\x20*\x20如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能\x0d\x0a\x20*\x0d\x0a\x20*\x20如果你的项目同样使用了scss预处理，你也可以直接在你的\x20scss\x20代码中使用如下变量，同时无需\x20import\x20这个文件\x0d\x0a\x20*/\x0d\x0a/*\x20颜色变量\x20*/\x0d\x0a/*\x20行为相关颜色\x20*/\x0d\x0a/*\x20文字基本颜色\x20*/\x0d\x0a/*\x20背景颜色\x20*/\x0d\x0a/*\x20边框颜色\x20*/\x0d\x0a/*\x20尺寸变量\x20*/\x0d\x0a/*\x20文字尺寸\x20*/\x0d\x0a/*\x20图片尺寸\x20*/\x0d\x0a/*\x20Border\x20Radius\x20*/\x0d\x0a/*\x20水平间距\x20*/\x0d\x0a/*\x20垂直间距\x20*/\x0d\x0a/*\x20透明度\x20*/\x0d\x0a/*\x20文章场景相关\x20*/uni-view[data-v-3927d88e],\x20uni-scroll-view[data-v-3927d88e],\x20uni-swiper-item[data-v-3927d88e]{display:flex;flex-direction:column;flex-shrink:0;flex-grow:0;flex-basis:auto;align-items:stretch;align-content:flex-start}',
 		'gift', 'e6ca', 'pulldown', '3fa5722e', 'fixed', 'select-user', 'content', 'rightClick', '159b', 'woman',
 		'fillText', 'webpackJsonp', 'd401',
@@ -117,7 +117,7 @@ function a7_0x3274() {
 		'colors', 'a877', '24932458', 'locked-filled', 'gear-filled', 'mic', 'configurable', 'limitAngle',
 		'px;transform:\x20translateY(-100%);background:\x20linear-gradient(0deg,\x20#1cbbb4,\x20#0081ff);', 'map',
 		'e66a', '24855814', 'e85e', '24899568', 'constructorIs', 'party', 'closeOnClickAction',
-		'./static/chess/sifter2.gif', 'disable', 'arrow', 'I\x20LOVE\x20YOU', '24881277', '24855808', '24923352',
+		'/static/chess/sifter2.gif', 'disable', 'arrow', 'I\x20LOVE\x20YOU', '24881277', '24855808', '24923352',
 		'phone-filled', 'hand-up', 'scrollOffset', 'rotatingScreenNew', '24881285', 'error', '6c36', 'async',
 		'title', '23e7', 'splitSentences', 'round2', 'getVoices', 'save', '6a79', '24923351', '1799', '1c01',
 		'hasBeenDispose', 'disabled', '100%', 'nextLoc', 'v-uni-scroll-view',
@@ -137,7 +137,7 @@ function a7_0x3274() {
 		'arrowthinup', '278c', 'chatboxes', 'shop', 'node', '24899565', 'scroll', 'indexOf', 'e6ce', 'sent',
 		'mail-open-filled', '私密版', '3c96', 'help-filled', '24813795', '#ffffff33', 'tool-btn', 'done', '91d5fe04',
 		'de0e', 'max', 'goBack', 'fiveRightLine', 'scan', 'enumerable', 'constructor',
-		'./static/fonts/uniicons.b6d3756e.ttf', '6cb13', 'e66f', 'customStyle', '0381', 'tip-top', '24813798',
+		'static/fonts/uniicons.b6d3756e.ttf', '6cb13', 'e66f', 'customStyle', '0381', 'tip-top', '24813798',
 		'towLine', 'arg', 'e65c', 'e6be', '9d52', 'e68c', 'eye-slash', 'u-subsection--', '24928001', '24923349',
 		'displayName', 'image-filled', '__await', 'e6a1', '24932465', '3927d88e', 'pause',
 		'Error\x20setting\x20pitch.\x20Please\x20verify\x20your\x20pitch\x20value\x20is\x20a\x20number\x20between\x200\x20and\x202.',
@@ -146,19 +146,19 @@ function a7_0x3274() {
 		'24923066', '.foreLine', '查看/切换下个玩家', 'personadd-filled', 'handleClose', 'uni-icons', '$emit', '1951',
 		'px)', '24855821', '8b81', '4a603381', 'aad8', 'suspendedYield', 'changeLocal', '8172', 'draw', 'abrupt',
 		'sort', 'cb29', 'e6c8', 'Polygon', 'my-dice', 'line', 'tick', 'c0fa', 'startAnimation', 'u-gap', 'd44e',
-		'#9ACD32', 'e643', '编辑规则', '24855816', 'shop-filled', './static/avatar/man.png', '24899571', 'e683',
+		'#9ACD32', 'e643', '编辑规则', '24855816', 'shop-filled', '/static/avatar/man.png', '24899571', 'e683',
 		'this\x20hasn\x27t\x20been\x20initialised\x20-\x20super()\x20hasn\x27t\x20been\x20called', '0ba4', '名称:',
 		'e696', 'e6b7', 'e651', 'weixin', 'ecf0306e', 'black', '下一步', 'c240', 'lang', 'u-subsection__item__text',
 		'moveTo', 'div', '4966', 'e6b4', 'hash',
 		')\x20format(\x22truetype\x22)}.uni-icons[data-v-0a75b799]{font-family:uniicons;text-decoration:none;text-align:center}',
-		'getDomInfo', 'sin', 'zh-CN', '24881282', 'dispatchException', '24923195', './static/newChess/chess3.png',
+		'getDomInfo', 'sin', 'zh-CN', '24881282', 'dispatchException', '24923195', '/static/newChess/chess3.png',
 		'charCodeAt', 'heart', 'VIP', '24881289', 'e67c', 'min', 'toArray', 'positionMan', 'flex-start', 'space-',
 		'getCanvasSize', 'initXYDom', 'e687', '24855826', 'd8a9', 'includes', '63de702a', 'plus', 'onMenu',
 		'_loadVoices', 'vip-filled', 'hasBrowserSupport', '模式切换', '24923347', '6a0e8cf5', 'close', 'right', 'e685',
 		'24932461', 'Confetti', 'trim', 'stepName', 'e67f', '#c8c9cc', 'e6b5', 'test', 'cd4c', 'yanse',
 		'listSelect', '5d5d', '5a52', '7d9a', 'top:', 'e416', 'chat', 'flag-filled', 'scrollTop', 'string',
 		'#canvas', 'margin-bottom:\x2015rpx;', 'getStyle', '498a', '.sifter-box-father', 'chatbubble', 'uniui图标库',
-		'download-filled', 'select', 'getPosition', 'validateLocale', './static/newChess/chess6.png', 'e68f',
+		'download-filled', 'select', 'getPosition', 'validateLocale', '/static/newChess/chess6.png', 'e68f',
 		'asyncIterator', 'fire-filled', 'closeHandler', '0538', 'diceImages', 'setPitch', '9b42', 'lineWidth',
 		'sides', 'This\x20CanvasRender\x20has\x20been\x20destroyed!', '24881284', '.thereLine', 'arrow-down',
 		'start', 'spinner-cycle', '确定要删除吗?', '24923167', '$forceUpdate', '6311', 'tryEntries', '7ec2',
@@ -826,10 +826,10 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 							'aniIndex': 0x0,
 							'diceAnimationImages': [_0x45ca99(0x647)],
 							'diceImages': {
-								0x1: './static/newChess/chess1.png',
-								0x2: './static/newChess/chess2.png',
+								0x1: '/static/newChess/chess1.png',
+								0x2: '/static/newChess/chess2.png',
 								0x3: _0x45ca99(0x478),
-								0x4: './static/newChess/chess4.png',
+								0x4: '/static/newChess/chess4.png',
 								0x5: _0x45ca99(0x655),
 								0x6: _0x45ca99(0x4b4)
 							},
@@ -8809,7 +8809,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 					_0x622deb = new _0x4eda4a[(_0x11131a(0x58f))](),
 					_0x29c48f = new _0x4eda4a[(_0x11131a(0x58f))](),
 					_0x569a9d = [_0x11131a(0x262), _0x11131a(0x37b), _0x11131a(0x288), _0x11131a(0x248),
-						_0x11131a(0x6c5), './static/chess/sifter6.gif'
+						_0x11131a(0x6c5), '/static/chess/sifter6.gif'
 					],
 					_0x2c6849 = {
 						'components': {
@@ -8850,7 +8850,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 								},
 								'show': !0x1,
 								'manAvatar': _0x217543(0x45c),
-								'woManAvatar': './static/avatar/woman.png',
+								'woManAvatar': '/static/avatar/woman.png',
 								'filterDataList': [],
 								'walkInfo': 0x0,
 								'showTip': !0x1,
@@ -9039,7 +9039,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 											'icon': _0x39dc52(0x353)
 										});
 										uni[_0x39dc52(0x67d)]({
-											'url': './pagesA/chess/chess?mode=' [
+											'url': '/pagesA/chess/chess?mode=' [
 												_0x39dc52(0x577)
 											](_0x2869c1['id'])
 										});
@@ -9654,7 +9654,7 @@ a7_0x1f2614(), (window[a7_0x3f3e74(0x2b3)] = window[a7_0x3f3e74(0x2b3)] || [])[a
 								var _0x28b146 = _0x11131a;
 								this[_0x28b146(0x564)] = uni[_0x28b146(0x531)](), this[
 										_0x28b146(0x564)]['src'] =
-									'./static/audio/shaizi.mp3';
+									'/static/audio/shaizi.mp3';
 							},
 							'initSpeechInit': function() {
 								var _0x190af7 = _0x11131a,
