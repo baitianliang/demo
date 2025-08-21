@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcentury"]=self["webpackChunkcentury"]||[]).push([[986],{2986:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var t=r(6768);const u={src:"./demo/index.html",width:"100%",height:"100%"};function c(e,n){return(0,t.uX)(),(0,t.CE)("iframe",u)}var i=r(1241);const s={},a=(0,i.A)(s,[["render",c]]);var f=a}}]);
+//# sourceMappingURL=986.0dec9991.js.map
