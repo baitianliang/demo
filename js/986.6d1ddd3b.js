@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktool"]=self["webpackChunktool"]||[]).push([[986],{2986:function(t,e,n){n.r(e),n.d(e,{default:function(){return a}});var r=n(6768);const u={src:"./demo/index.html",width:"100%",height:"100%"};function o(t,e){return(0,r.uX)(),(0,r.CE)("iframe",u)}var c=n(1241);const i={},s=(0,c.A)(i,[["render",o]]);var a=s}}]);
+//# sourceMappingURL=986.6d1ddd3b.js.map
