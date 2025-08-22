@@ -12,7 +12,10 @@ const routes = [
     {
         path: '/sexFlyChess',
         name: '情侣自走棋',
-        component: () => import('../views/sexFlyChess.vue')
+        component: () => import('../views/sexFlyChess.vue'),
+        meta: {
+            hidden: true
+        }
     },
     {
         path: '/markdown',
