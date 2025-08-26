@@ -18,6 +18,14 @@ const routes = [
         }
     },
     {
+        path: '/myPhoto',
+        name: '我的相册',
+        component: () => import('../views/myPhoto.vue'),
+        meta: {
+            hidden: true
+        }
+    },
+    {
         path: '/markdown',
         name: 'markdown编辑器',
         component: () => import('../views/markdown.vue')
