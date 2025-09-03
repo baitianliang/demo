@@ -20,12 +20,25 @@
             </div>
             <div v-else v-for="(photo, index) in paginatedPhotos" :key="index" class="photo" @click="openModal(index)">
                 <!-- <img :src="photo.url" :alt="photo.title"> -->
-                <img :src="photo.url">
+                <img v-show="!loading" :src="path + photo.url" loading="lazy">
+                <!-- <img v-if="photo.url" :src="require('../../public' + photo.url)"> -->
                 <div class="photo-category">{{ photo.category }}</div>
             </div>
         </div>
+        
         <div class="pagination-controls" v-if="totalPages > 1">
-            <div class="items-per-page">
+            <el-pagination
+                :current-page="currentPage"
+                :page-size="itemsPerPage"
+                :page-sizes="[6, 12, 18, 24]"
+                :size="size"
+                background
+                layout="sizes, prev, pager, next"
+                :total="filteredPhotos.length"
+                @size-change="handleSizeChange"
+                @current-change="setPage"
+            />
+            <!-- <div class="items-per-page">
                 <span>每页显示：</span>
                 <select v-model="itemsPerPage">
                     <option v-for="item in [6, 12, 18, 24]" :value="item" :key="item">{{ item }}</option>
@@ -43,7 +56,7 @@
                 </button>
                 <button class="page-btn" @click="prevPage" :disabled="currentPage === 1">上一页</button>
                 <button class="page-btn" @click="nextPage" :disabled="currentPage === totalPages">下一页</button>
-            </div>
+            </div> -->
             <div class="page-info">
                 第 {{ currentPage }} 页，共 {{ totalPages }} 页（{{ filteredPhotos.length }} 张照片）
             </div>
@@ -53,7 +66,7 @@
             <button v-if="modalOpen" class="nav-btn prev" @click.stop="prevPhoto">&lt;</button>
             <div class="modal-content">
                 <!-- <img :src="currentPhoto.url" :alt="currentPhoto.title"> -->
-                <img :src="currentPhoto.url">
+                <img :src="path + currentPhoto.url">
                 <div class="photo-info">
                     <!-- {{ currentPhoto.title }} - {{ currentPhoto.category }} ({{ currentPhotoIndex + 1 }} / {{ filteredPhotos.length }}) -->
                     {{ currentPhoto.category }} ({{ currentPhotoIndex + 1 }} / {{ filteredPhotos.length }})
@@ -74,7 +87,12 @@ const currentIndex = ref(0);
 const activeCategory = ref('全部');
 const itemsPerPage = ref(12);
 const currentPage = ref(1);
+const path = ref(process.env.NODE_ENV === 'production'? 'http://t1zu6d34z.sabkt.gdipper.com' : 'http://t1zu6d34z.sabkt.gdipper.com');
+// http://t1zu6d34z.sabkt.gdipper.com
+// http://www.bai-home.fun
 
+console.log(process.env.NODE_ENV)
+// https://cdn.jsdelivr.net/gh/baitianliang/demo@master/image/%E8%AE%A2%E5%A9%9A/IMG_20230503_002701.jpg
 // 分类列表
 const categories = computed(() => {
     const allCategories = ['全部', ...new Set(photos.value.map(photo => photo.category))];
@@ -282,7 +300,7 @@ h1 {
 
 .pagination-controls {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
     margin-bottom: 20px;
     flex-wrap: wrap;

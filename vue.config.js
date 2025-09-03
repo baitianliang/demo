@@ -3,15 +3,15 @@ module.exports = defineConfig({
   lintOnSave: false,
   publicPath: './',
   transpileDependencies: true,
-  devServer: {
-    proxy: {
-      '/api': {
-        target: '',
-        changeOrigin: true,
-        pathRewrite: {
-            '^/api': '',
-        },
-      },
-    },
-  }
+  // devServer: {
+  //   proxy: {
+  //     '/api': {
+  //       target: '',
+  //       changeOrigin: true,
+  //       pathRewrite: {
+  //           '^/api': '',
+  //       },
+  //     },
+  //   },
+  // }
 })
