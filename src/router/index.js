@@ -26,6 +26,14 @@ const routes = [
         }
     },
     {
+        path: '/myVideo',
+        name: '我的视频',
+        component: () => import('../views/myVideo.vue'),
+        meta: {
+            hidden: true
+        }
+    },
+    {
         path: '/markdown',
         name: 'markdown编辑器',
         component: () => import('../views/markdown.vue')

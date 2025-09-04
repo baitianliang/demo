@@ -87,7 +87,7 @@ const currentIndex = ref(0);
 const activeCategory = ref('全部');
 const itemsPerPage = ref(12);
 const currentPage = ref(1);
-const path = ref(process.env.NODE_ENV === 'production'? 'http://t1zu6d34z.sabkt.gdipper.com' : 'http://t1zu6d34z.sabkt.gdipper.com');
+const path = ref(process.env.NODE_ENV === 'production'? 'https://bai-home.fun' : 'https://bai-home.fun');
 // http://t1zu6d34z.sabkt.gdipper.com
 // http://www.bai-home.fun
 
